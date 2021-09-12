@@ -1,0 +1,249 @@
+Case No,A1,A2,A3,A4,A5,A6,A7,A8,A9,A10,Age,Sex,Ethnicity,Jaundice ,Family_ASD,Residence,Used_App_Before,Why taken the screening ,Score,Screening Type,Language,User,Class
+19,1,1,0,1,0,0,1,1,0,0,15,m,asian,no,no,Indonesia,no,,5,12-16 years,english,self,NO
+22,0,1,1,1,0,1,1,0,1,0,15,m,middle eastern,no,no,Argentina,no,14.875,6,12-16 years,spanish,parent,NO
+90,1,1,1,0,1,1,1,1,1,1,15,f,middle eastern,no,yes,Egypt,no,15,9,12-16 years,english,parent,YES
+106,1,1,1,1,1,1,1,1,0,0,16,f,latino,no,no,Austria,no,,8,12-16 years,english,health care professional,YES
+109,1,1,1,1,1,1,1,1,1,1,15,f,aboriginal,no,no,Barbados,no,,10,12-16 years,english,health care professional,YES
+117,0,1,1,1,0,1,1,0,1,0,14,m,middle eastern,no,no,Bangladesh,no,,6,12-16 years,farsi,parent,NO
+119,1,0,0,0,1,0,0,1,0,1,14,f,middle eastern,no,no,Barbados,no,,4,12-16 years,arabic,parent,NO
+120,1,0,0,0,1,0,0,1,0,1,12,m,middle eastern,no,no,Armenia,no,,4,12-16 years,urdu,parent,NO
+121,1,0,0,0,1,0,0,1,0,1,15,f,middle eastern,no,no,Argentina,no,,4,12-16 years,urdu,parent,NO
+122,0,1,1,1,0,1,1,0,1,0,12,f,middle eastern,no,no,Austria,no,,6,12-16 years,turkish,parent,NO
+123,0,1,1,1,0,1,1,0,1,0,16,f,middle eastern,no,no,Anguilla,yes,gadgets,6,12-16 years,turkish,parent,NO
+127,1,0,1,0,0,0,0,1,0,1,16,m,asian,no,no,India,no,,4,12-16 years,english,parent,NO
+130,0,0,0,1,1,1,1,1,1,0,12,m,latino,yes,yes,Azerbaijan,no,,6,12-16 years,english,relative,NO
+131,0,0,0,1,1,1,1,1,1,0,15,m,black,yes,yes,Austria,no,,6,12-16 years,swahili,parent,NO
+132,1,0,0,0,1,0,0,1,0,1,15,m,aboriginal,yes,yes,Belize,no,,4,12-16 years,english,relative,NO
+133,0,0,0,0,0,0,0,0,1,1,15,m,hispanic,no,no,Austria,no,,2,12-16 years,english,relative,NO
+134,0,0,0,0,0,0,0,0,1,1,12,f,middle eastern,no,no,Afghanistan,no,,2,12-16 years,arabic,parent,NO
+135,1,0,0,0,1,0,0,1,0,1,15,f,middle eastern,no,no,Azerbaijan,no,,4,12-16 years,arabic,health care professional,NO
+136,0,0,0,0,0,0,0,0,1,1,12,f,middle eastern,no,no,Algeria,no,,2,12-16 years,arabic,relative,NO
+137,0,0,0,0,0,0,0,0,1,1,14,f,black,no,no,Angola,no,,2,12-16 years,arabic,health care professional,NO
+138,1,0,0,0,1,0,0,1,0,1,15,m,white,yes,yes,Algeria,no,,4,12-16 years,arabic,relative,NO
+139,0,0,0,0,1,0,0,1,1,1,12,f,black,no,no,Albania,no,,4,12-16 years,arabic,relative,NO
+140,0,0,0,0,1,0,0,1,1,1,12,f,black,no,no,Albania,no,,4,12-16 years,arabic,relative,NO
+141,0,0,0,0,0,0,0,0,1,1,12,f,black,no,no,Algeria,no,,2,12-16 years,arabic,others,NO
+153,0,0,0,0,0,0,0,0,1,1,14,f,black,no,no,Aruba,no,,2,12-16 years,arabic,relative,NO
+154,0,0,0,0,0,0,0,0,1,1,12,f,middle eastern,no,no,AmericanSamoa,no,,2,12-16 years,arabic,health care professional,NO
+155,0,0,0,0,0,0,0,0,1,1,12,f,asian,no,no,Angola,no,,2,12-16 years,english,self,NO
+156,0,0,0,0,0,0,0,0,1,1,14,f,middle eastern,no,no,Armenia,no,,2,12-16 years,arabic,health care professional,NO
+157,0,0,0,0,0,0,0,0,1,1,12,f,black,no,no,Algeria,no,,2,12-16 years,english,relative,NO
+158,0,0,0,0,0,0,0,0,1,1,14,f,middle eastern,no,no,Algeria,no,,2,12-16 years,arabic,others,NO
+159,1,0,0,0,1,0,0,1,0,1,12,f,white,no,no,Bahrain,no,,4,12-16 years,arabic,health care professional,NO
+162,0,0,0,0,0,0,0,0,1,1,15,m,white,yes,yes,Bahamas,no,,2,12-16 years,arabic,parent,NO
+164,0,0,0,0,0,0,0,0,1,1,14,f,middle eastern,no,no,Bahrain,no,,2,12-16 years,arabic,health care professional,NO
+165,0,0,1,0,0,1,1,0,0,0,14,f,white,no,no,Armenia,no,,3,12-16 years,arabic,relative,NO
+166,0,0,0,0,0,0,0,0,1,1,14,f,middle eastern,no,no,Algeria,no,,2,12-16 years,arabic,health care professional,NO
+170,0,0,1,1,0,1,1,0,1,0,14,f,middle eastern,no,no,Algeria,no,,5,12-16 years,farsi,parent,NO
+171,1,1,0,1,0,0,1,0,0,0,14,f,middle eastern,no,no,Algeria,no,,4,12-16 years,farsi,relative,NO
+172,0,0,1,1,0,1,1,0,1,0,14,f,black,no,no,Algeria,no,,5,12-16 years,farsi,others,NO
+174,0,1,1,1,1,1,0,1,1,0,14,f,white,no,no,United Kingdom,no,,7,12-16 years,english,self,YES
+180,1,1,1,1,1,1,1,1,1,0,15,f,middle eastern,no,no,Bahrain,no,,9,12-16 years,english,self,YES
+181,0,0,0,0,0,0,0,1,1,1,15,f,middle eastern,no,no,Azerbaijan,no,,3,12-16 years,urdu,parent,NO
+192,0,0,0,0,0,0,0,0,1,1,15,f,white,no,no,Bahrain,no,,2,12-16 years,russian,parent,NO
+209,1,1,1,1,1,1,1,0,0,0,15,f,middle eastern,no,no,Bangladesh,no,,7,12-16 years,farsi,parent,YES
+210,1,1,1,1,1,1,1,0,0,0,15,f,middle eastern,no,no,Azerbaijan,no,,7,12-16 years,spanish,parent,YES
+211,1,1,1,1,1,1,1,0,0,0,15,f,middle eastern,no,no,Angola,no,,7,12-16 years,portuguese,parent,YES
+214,1,1,1,1,1,1,1,0,0,0,16,f,middle eastern,no,no,Albania,no,,7,12-16 years,arabic,parent,YES
+215,1,1,1,1,1,1,1,0,0,0,16,f,middle eastern,no,no,Bangladesh,no,,7,12-16 years,arabic,parent,YES
+266,1,0,0,0,0,1,0,0,1,0,13,f,middle eastern,no,no,Belgium,no,,3,12-16 years,arabic,health care professional,NO
+278,1,0,0,0,1,0,0,1,0,1,15,f,middle eastern,no,no,Barbados,no,,4,12-16 years,arabic,parent,NO
+287,1,1,0,1,1,0,1,1,0,1,15,f,middle eastern,no,no,Australia,no,,7,12-16 years,portuguese,parent,YES
+295,1,1,1,1,1,1,0,0,0,0,12,m,black,yes,yes,Bahrain,no,,6,12-16 years,english,parent,NO
+304,1,0,0,0,1,0,0,1,0,0,16,f,middle eastern,no,no,Belarus,no,,3,12-16 years,english,relative,NO
+305,0,1,1,0,0,1,0,0,1,0,12,f,black,no,no,Azerbaijan,no,,4,12-16 years,swahili,parent,NO
+319,1,0,0,0,0,1,1,1,0,0,16,m,middle eastern,no,no,Angola,no,,4,12-16 years,english,parent,NO
+321,1,0,0,0,1,1,0,1,1,0,13,f,middle eastern,yes,no,United Arab Emirates,no,,5,12-16 years,english,parent,NO
+355,1,0,0,0,1,1,0,0,1,1,13,f,white,no,no,United Kingdom,no,,5,12-16 years,english,self,NO
+373,1,0,0,1,1,1,0,1,1,1,12,f,others ,no,no,United Kingdom,no,,7,12-16 years,english,self,YES
+374,1,1,1,1,1,1,0,1,1,1,12,f,others ,no,no,United Kingdom,no,,9,12-16 years,english,parent,YES
+376,1,0,1,1,1,1,0,1,1,1,12,f,others ,no,no,United Kingdom,no,,8,12-16 years,english,self,YES
+379,1,1,0,1,1,1,1,1,1,1,15,f,white,no,yes,United Kingdom,no,,9,12-16 years,english,parent,YES
+400,1,0,0,0,1,0,0,1,0,1,12,f,others ,yes,yes,United Kingdom,no,,4,12-16 years,english,parent,NO
+401,1,0,1,1,1,1,0,1,1,1,12,f,others ,no,no,United Kingdom,no,,8,12-16 years,english,parent,YES
+405,1,1,1,1,1,0,0,1,1,0,13,f,white,no,no,United Kingdom,no,,7,12-16 years,english,parent,YES
+406,1,1,1,0,1,1,1,0,1,1,12,m,white,no,no,United Kingdom,no,,8,12-16 years,english,parent,YES
+413,0,0,1,1,1,1,0,1,1,1,12,f,others ,no,no,United Kingdom,no,,7,12-16 years,english,parent,YES
+418,1,1,1,1,0,1,1,1,1,1,14,m,white,no,no,New Zealand,no,,9,12-16 years,english,parent,YES
+422,1,1,1,1,1,1,1,1,1,1,15,f,white,no,no,Australia,no,,10,12-16 years,english,parent,YES
+439,1,0,1,1,1,1,1,1,1,1,13,m,middle eastern,no,yes,United States,no,,9,12-16 years,english,parent,YES
+451,1,1,1,1,1,1,1,1,1,1,14,m,hispanic,no,no,Argentina,no,,10,12-16 years,spanish,self,YES
+457,1,0,1,1,1,1,0,1,1,1,12,f,others ,no,no,United Kingdom,no,,8,12-16 years,english,health care professional,YES
+473,1,1,0,1,0,0,0,0,0,0,12,m,middle eastern,no,no,Jordan,no,,3,12-16 years,english,self,NO
+476,1,0,1,1,1,0,0,0,1,1,14,f,white,no,no,Canada,no,,6,12-16 years,english,self,NO
+477,1,1,0,0,0,0,1,0,1,0,13,m,middle eastern,no,no,Afghanistan,no,,4,12-16 years,arabic,parent,NO
+553,0,1,1,1,1,1,1,1,1,1,16,m,black,no,no,United Kingdom,no,,9,12-16 years,english,parent,YES
+561,1,0,1,1,1,1,0,1,1,1,14,f,white,no,no,United Kingdom,no,,8,12-16 years,english,self,YES
+567,1,1,1,1,1,1,0,0,0,1,13,m,white,no,no,United Kingdom,no,,7,12-16 years,english,self,YES
+576,1,0,1,1,1,1,0,1,1,1,16,f,white,no,no,United States,no,,8,12-16 years,english,self,YES
+616,1,1,1,1,1,1,1,0,1,1,12,m,middle eastern,yes,no,United States,no,,9,12-16 years,english,parent,YES
+622,1,0,1,1,1,1,1,1,1,1,14,f,others ,no,no,Canada,no,,9,12-16 years,english,self,YES
+647,1,1,1,1,0,1,1,1,1,1,16,f,latino,no,yes,Brazil,no,,9,12-16 years,portuguese,self,YES
+678,1,0,1,1,1,1,1,1,1,1,15,f,black,no,no,United States,no,,9,12-16 years,english,self,YES
+679,0,0,1,1,1,1,1,1,1,1,14,f,others ,no,no,Canada,no,,8,12-16 years,english,self,YES
+691,0,0,1,1,1,1,1,1,1,1,12,m,white,no,no,United States,no,,8,12-16 years,english,relative,YES
+692,0,0,1,1,1,1,1,1,1,1,12,m,white,no,no,United States,no,,8,12-16 years,english,relative,YES
+693,1,0,1,0,1,1,1,1,1,1,15,m,white,no,no,Croatia,no,,8,12-16 years,english,health care professional,YES
+742,1,1,0,0,1,1,0,0,1,0,13,f,others ,yes,yes,United States,no,,5,12-16 years,english,self,NO
+776,1,0,0,0,1,1,0,0,0,0,16,m,hispanic,no,no,Argentina,no,,3,12-16 years,english,self,NO
+777,0,1,1,1,1,1,1,1,1,1,16,m,hispanic,no,no,Argentina,no,,9,12-16 years,english,self,YES
+778,0,1,0,1,1,0,1,0,1,0,16,m,hispanic,no,no,Argentina,no,,5,12-16 years,english,self,NO
+781,1,0,1,0,1,0,0,0,1,0,15,m,latino,no,no,Argentina,no,,4,12-16 years,english,others,NO
+788,0,0,1,1,1,1,1,1,1,0,15,f,white,no,no,Argentina,no,,7,12-16 years,english,parent,YES
+791,1,1,1,1,1,1,1,1,1,1,16,m,asian,yes,no,India,no,,10,12-16 years,english,relative,YES
+795,0,1,0,1,0,0,0,0,0,1,16,m,latino,no,no,Argentina,no,,3,12-16 years,spanish,self,NO
+796,0,0,0,1,0,0,0,0,0,0,15,m,middle eastern,no,no,Argentina,no,,1,12-16 years,spanish,self,NO
+801,0,1,1,1,1,1,1,1,1,1,16,m,asian,yes,no,India,yes,Clear answers,9,12-16 years,english,relative,YES
+805,1,1,1,1,0,1,0,0,1,0,12,m,asian,no,no,Bangladesh,no,,6,12-16 years,english,parent,NO
+853,1,1,1,0,1,1,1,1,1,1,12,f,black,no,no,France,no,,9,12-16 years,french,parent,YES
+860,1,1,0,1,1,1,0,0,1,1,14,f,south asians,no,no,United Kingdom,no,,7,12-16 years,english,self,YES
+861,0,0,1,1,0,1,0,1,1,1,13,m,asian,no,no,Indonesia,no,,6,12-16 years,english,parent,NO
+869,0,1,1,1,1,1,1,1,1,1,13,m,asian,no,no,Indonesia,no,,9,12-16 years,english,parent,YES
+878,1,0,0,1,1,1,0,1,1,1,16,f,black,no,no,United States,no,,7,12-16 years,english,self,YES
+879,0,0,1,0,0,1,1,1,1,1,15,f,black,no,yes,Afghanistan,yes,because I made this choice for me,6,12-16 years,english,parent,NO
+884,1,0,0,1,1,0,0,1,1,1,15,f,white,no,yes,Algeria,no,,6,12-16 years,english,others,NO
+889,0,0,0,1,1,1,0,0,0,1,13,m,middle eastern,no,no,Egypt,no,,4,12-16 years,english,others,NO
+894,1,0,0,0,0,0,0,0,0,0,15,f,hispanic,no,no,Argentina,no,,1,12-16 years,spanish,self,NO
+899,0,0,0,1,0,0,1,1,0,0,15,m,latino,no,no,Argentina,no,,3,12-16 years,spanish,self,NO
+900,0,1,0,0,0,0,0,0,0,0,15,m,black,no,no,Argentina,no,,1,12-16 years,spanish,parent,NO
+902,1,1,1,1,1,1,1,1,0,0,16,m,white,no,no,Argentina,no,,8,12-16 years,english,self,YES
+917,0,0,0,0,0,0,1,0,0,0,16,m,latino,no,no,Argentina,no,,1,12-16 years,spanish,self,NO
+918,1,1,1,1,1,1,1,1,1,1,16,m,latino,no,no,Argentina,no,,10,12-16 years,spanish,self,YES
+920,1,1,1,1,1,1,1,1,1,1,12,f,white,no,yes,United Kingdom,no,,10,12-16 years,english,self,YES
+927,1,1,0,0,0,0,0,1,0,0,16,f,white,no,no,United Kingdom,no,,3,12-16 years,english,self,NO
+938,0,0,1,1,1,1,1,1,1,1,16,f,white,no,no,Netherlands,no,,8,12-16 years,english,parent,YES
+995,1,0,1,1,1,1,0,0,1,1,16,f,white,yes,no,Greenland,no,,7,12-16 years,english,self,YES
+1095,1,0,1,1,1,0,1,1,1,0,14,f,white,no,yes,United Kingdom,no,,7,12-16 years,english,self,YES
+1141,1,0,1,1,1,1,0,1,1,1,15,f,white,no,no,Austria,no,,8,12-16 years,english,health care professional,YES
+1142,1,0,1,1,1,1,0,1,1,1,15,f,asian,no,no,Bahamas,no,,8,12-16 years,english,self,YES
+1177,1,1,1,1,0,1,0,0,1,0,12,m,middle eastern,no,no,Afghanistan,no,,6,12-16 years,english,parent,NO
+1189,0,0,1,0,1,1,1,0,0,0,16,m,white,no,no,Netherlands,no,,4,12-16 years,english,others,NO
+1210,1,1,1,1,1,1,0,0,1,1,13,f,white,no,no,United States,no,,8,12-16 years,english,self,YES
+1227,1,0,0,0,1,1,0,1,1,1,14,m,middle eastern,no,no,Afghanistan,no,,6,12-16 years,english,self,NO
+1228,1,1,0,0,1,0,1,1,1,1,14,m,others ,no,no,United Kingdom,no,,7,12-16 years,english,self,YES
+1233,1,1,0,0,0,1,0,1,1,1,13,f,white,no,yes,Belgium,yes,film,6,12-16 years,english,health care professional,NO
+1238,0,1,0,1,1,1,0,1,1,1,16,f,white,no,no,United States,no,,7,12-16 years,english,self,YES
+1252,1,1,1,1,0,1,0,0,1,1,12,f,black,no,yes,United Kingdom,no,,7,12-16 years,english,self,YES
+1263,1,1,1,1,1,1,0,1,1,0,12,m,white,no,no,Albania,no,,8,12-16 years,english,health care professional,YES
+1266,1,1,1,1,1,1,1,0,1,0,16,m,asian,no,no,United Kingdom,no,,8,12-16 years,english,parent,YES
+1278,1,1,1,0,1,0,1,0,1,0,16,m,asian,no,yes,United Kingdom,no,,6,12-16 years,english,self,NO
+1281,1,1,1,1,1,1,1,0,1,1,14,f,white,no,no,South Africa,no,,9,12-16 years,english,parent,YES
+1292,1,1,0,0,1,0,1,0,0,0,12,m,asian,yes,no,Viet Nam,no,,4,12-16 years,english,self,NO
+1326,1,1,1,1,1,1,1,1,1,0,14,m,white,no,no,United States,no,,9,12-16 years,english,parent,YES
+1341,1,0,1,1,0,1,1,1,1,1,16,f,white,yes,no,United Kingdom,no,,8,12-16 years,english,parent,YES
+1346,0,0,1,1,0,1,0,1,1,1,13,f,black,no,no,AmericanSamoa,no,,6,12-16 years,english,parent,NO
+1347,0,1,1,1,0,1,1,0,1,0,12,f,middle eastern,yes,no,Afghanistan,no,,6,12-16 years,english,parent,NO
+1349,1,0,0,0,1,1,0,1,0,0,16,m,aboriginal,no,no,Comoros,no,,4,12-16 years,english,self,NO
+1350,1,1,1,0,1,1,1,0,1,1,16,m,asian,no,no,Portugal,no,,8,12-16 years,english,relative,YES
+1358,1,1,0,1,1,1,0,0,1,0,15,m,white,no,no,Croatia,no,,6,12-16 years,english,self,NO
+1363,1,0,0,1,1,1,0,0,1,1,14,m,white,no,no,Finland,no,,6,12-16 years,english,parent,NO
+1371,0,0,1,1,1,0,1,1,1,1,16,m,asian,yes,no,India,no,,7,12-16 years,english,others,YES
+1372,1,1,1,1,1,1,1,0,1,1,16,m,asian,yes,no,India,no,,9,12-16 years,english,relative,YES
+1379,0,1,1,1,0,0,0,1,1,1,16,f,white,yes,no,United Kingdom,no,,6,12-16 years,english,self,NO
+1385,1,1,1,1,1,1,0,0,1,1,14,m,white,no,no,United Kingdom,no,,8,12-16 years,english,parent,YES
+1401,1,0,1,0,0,1,0,0,1,1,13,m,white,no,no,Norway,no,,5,12-16 years,english,self,NO
+1423,1,1,0,1,1,1,1,1,1,1,16,m,white,no,no,United States,no,,9,12-16 years,english,self,YES
+1437,1,1,0,1,1,1,1,1,1,1,15,m,white,yes,yes,United Kingdom,no,,9,12-16 years,english,self,YES
+1445,1,0,1,0,1,0,1,0,0,0,12,m,asian,no,no,India,yes,he is my son in law,4,12-16 years,english,relative,NO
+1451,1,1,1,0,1,1,0,0,1,1,16,m,white,yes,no,Ireland,no,,7,12-16 years,english,self,YES
+1529,1,0,0,1,1,1,1,1,1,1,12,f,white,no,no,United Kingdom,no,,8,12-16 years,english,self,YES
+1542,1,1,0,1,1,0,0,0,1,1,13,f,white,no,no,United Kingdom,no,,6,12-16 years,english,self,NO
+1563,1,0,1,0,0,1,1,1,1,0,12,m,asian,no,no,India,no,,6,12-16 years,english,parent,NO
+1630,0,1,1,1,1,1,0,1,0,1,12,m,asian,yes,yes,India,yes,for 2nd child,7,12-16 years,english,parent,YES
+1644,0,0,0,1,0,0,0,1,1,0,13,f,white,no,no,Canary Islands,no,,3,12-16 years,english,parent,NO
+1660,1,1,1,1,1,1,1,1,1,1,14,m,white,yes,no,United Kingdom,no,,10,12-16 years,english,parent,YES
+1661,1,0,0,0,1,0,0,1,0,1,14,m,white,no,yes,United Kingdom,yes,just want to see if am autistic,4,12-16 years,english,self,NO
+1663,1,0,1,1,1,1,0,0,1,1,15,f,white,no,no,Europe,no,,7,12-16 years,english,parent,YES
+1666,1,0,1,1,1,0,1,1,1,1,12,m,hispanic,yes,no,United States,no,,8,12-16 years,english,parent,YES
+1671,0,1,1,1,1,1,1,0,1,1,12,m,white,no,no,United Kingdom,no,,8,12-16 years,english,parent,YES
+1674,1,0,1,1,1,1,0,1,1,1,12,m,middle eastern,no,yes,Afghanistan,no,,8,12-16 years,english,parent,YES
+1697,1,1,0,1,1,1,1,0,1,0,14,f,white,yes,no,United States,no,,7,12-16 years,english,self,YES
+1710,1,1,1,1,1,1,0,1,1,1,13,m,white,yes,no,United Kingdom,no,,9,12-16 years,english,self,YES
+1712,1,0,1,1,1,1,0,1,1,1,16,m,asian,no,no,Thailand,no,,8,12-16 years,english,health care professional,YES
+1714,1,1,1,1,1,1,1,1,1,1,13,m,white,yes,yes,United Kingdom,no,,10,12-16 years,english,parent,YES
+1722,1,1,1,1,1,1,0,1,1,1,16,f,white,no,no,United States,no,,9,12-16 years,english,self,YES
+1732,1,1,1,1,1,1,1,1,1,1,12,f,white,no,yes,United Kingdom,no,,10,12-16 years,english,self,YES
+1734,0,0,0,1,1,0,1,0,0,1,12,f,white,no,yes,Australia,no,,4,12-16 years,english,parent,NO
+1743,1,1,1,1,1,1,0,1,1,1,13,m,white,no,no,Australia,no,,9,12-16 years,english,self,YES
+1746,1,0,1,1,1,1,1,1,1,1,13,m,white,yes,no,United States,no,,9,12-16 years,english,parent,YES
+1753,1,1,1,0,0,1,0,1,1,0,16,m,white,no,no,United Kingdom,no,,6,12-16 years,english,self,NO
+1754,0,1,1,1,1,1,1,0,1,0,16,m,white,no,no,United Kingdom,no,,7,12-16 years,english,self,YES
+1755,1,1,0,1,1,1,0,0,1,1,16,f,white,no,no,United Kingdom,no,,7,12-16 years,english,self,YES
+1781,1,1,1,1,1,1,1,1,1,1,12,f,white,no,no,Canada,no,,10,12-16 years,english,parent,YES
+1806,1,0,0,0,1,1,0,1,1,1,15,f,white,no,no,United Kingdom,no,,6,12-16 years,english,self,NO
+1812,1,0,1,1,1,1,0,1,1,1,12,m,white,no,no,United Kingdom,no,,8,12-16 years,english,parent,YES
+1827,0,1,1,1,0,1,1,0,1,1,12,m,asian,no,no,United Kingdom,no,,7,12-16 years,english,parent,YES
+1831,0,1,1,1,1,1,0,0,1,1,15,f,white,no,no,United States,no,,7,12-16 years,english,self,YES
+1844,1,1,1,1,1,1,0,0,1,1,15,m,white,no,no,Europe,no,,8,12-16 years,english,others,YES
+1845,1,0,1,1,0,1,1,1,1,1,13,m,white,no,no,United Kingdom,no,,8,12-16 years,english,parent,YES
+1848,1,1,0,0,0,0,0,0,1,0,15,f,white,no,no,United Kingdom,no,,3,12-16 years,english,parent,NO
+1854,1,1,0,1,0,0,0,1,0,0,14,f,white,yes,no,United States,no,,4,12-16 years,english,parent,NO
+1863,1,0,1,1,1,1,0,1,1,1,13,f,white,no,no,United Kingdom,no,,8,12-16 years,english,self,YES
+1870,0,1,1,0,1,1,0,0,1,1,13,f,others ,no,no,United Kingdom,no,,6,12-16 years,english,self,NO
+1923,1,0,0,1,1,0,0,1,1,0,15,f,white,no,no,United Kingdom,no,,5,12-16 years,english,self,NO
+1938,1,0,0,0,0,0,1,1,0,0,15,f,white,no,no,United States,no,,3,12-16 years,english,self,NO
+1943,1,1,0,0,1,1,1,0,1,1,13,f,white,no,no,Canada,no,,7,12-16 years,english,self,YES
+1944,1,1,1,0,1,1,1,1,1,1,12,m,asian,yes,no,Indonesia,no,,9,12-16 years,english,parent,YES
+1971,1,0,0,1,1,1,0,0,1,1,15,f,white,no,yes,United Kingdom,no,,6,12-16 years,english,self,NO
+1988,0,0,1,1,1,0,1,1,0,1,13,f,white,no,no,United States,no,,6,12-16 years,english,self,NO
+1993,1,1,0,0,1,1,0,0,1,1,15,m,asian,no,yes,Canada,no,,6,12-16 years,english,self,NO
+1994,1,0,1,1,1,1,0,0,1,0,12,m,asian,no,no,Canada,no,,6,12-16 years,english,self,NO
+2029,1,1,1,1,1,1,0,1,1,1,15,f,white,no,yes,United Kingdom,no,,9,12-16 years,english,self,YES
+2030,1,0,0,1,0,0,1,1,0,1,12,m,white,yes,no,Australia,no,,5,12-16 years,english,self,NO
+2034,1,1,1,1,0,1,1,0,1,1,14,f,white,no,no,United Kingdom,no,,8,12-16 years,english,parent,YES
+2036,1,1,1,1,1,0,1,0,0,0,12,f,south asians,no,no,India,no,,6,12-16 years,english,self,NO
+2087,0,0,1,1,1,1,0,1,1,1,13,f,white,no,no,United Kingdom,no,,7,12-16 years,english,self,YES
+2088,1,1,0,1,1,1,0,0,1,1,16,f,white,no,no,United Kingdom,no,,7,12-16 years,english,self,YES
+2103,1,0,1,1,1,1,1,0,1,1,15,m,asian,no,no,India,no,,8,12-16 years,english,self,YES
+2104,0,0,0,0,1,0,0,1,0,1,13,m,white,no,no,United Kingdom,no,,3,12-16 years,english,parent,NO
+2105,1,0,1,1,1,1,0,0,1,1,14,f,white,no,yes,United Kingdom,no,,7,12-16 years,english,self,YES
+2106,1,0,1,0,1,1,1,1,1,1,13,m,white,no,no,United Kingdom,no,,8,12-16 years,english,parent,YES
+2107,1,0,1,0,1,1,1,0,1,1,15,f,others ,no,yes,United Kingdom,no,,7,12-16 years,english,parent,YES
+2110,1,0,0,0,0,1,1,1,1,1,12,m,others ,no,yes,United States,no,,6,12-16 years,english,parent,NO
+2111,1,1,1,1,0,1,1,1,1,1,12,m,hispanic,no,yes,United States,no,,9,12-16 years,english,parent,YES
+2112,1,1,0,1,0,0,1,0,1,0,13,m,hispanic,no,yes,United States,no,,5,12-16 years,english,parent,NO
+2134,1,1,0,0,0,0,0,0,1,0,15,m,white,no,yes,United Kingdom,no,,3,12-16 years,english,parent,NO
+2136,1,1,1,1,1,1,0,1,1,1,15,m,white,no,no,United Kingdom,no,,9,12-16 years,english,parent,YES
+2137,0,0,0,0,0,0,0,0,0,0,15,m,white,no,no,United Kingdom,no,,0,12-16 years,english,parent,NO
+2138,1,1,1,1,1,1,0,1,1,1,15,m,white,no,no,United Kingdom,no,,9,12-16 years,english,parent,YES
+2181,1,1,1,1,0,1,1,0,1,1,12,f,white,yes,no,Australia,no,,8,12-16 years,english,self,YES
+2197,1,0,1,1,1,1,1,1,1,1,15,f,white,no,no,Isle of Man,no,,9,12-16 years,english,parent,YES
+2210,0,0,1,1,1,1,1,1,1,1,13,f,white,no,no,United States,no,,8,12-16 years,english,parent,YES
+2215,1,0,1,0,1,1,0,0,1,1,13,f,white,yes,yes,Sweden,no,,6,12-16 years,english,self,NO
+2223,1,1,1,1,1,1,1,1,1,1,12,m,white,no,yes,United Kingdom,no,,10,12-16 years,english,parent,YES
+2226,1,0,1,1,1,1,0,1,1,1,14,f,white,no,yes,Bahamas,no,,8,12-16 years,english,self,YES
+2237,1,1,1,1,1,1,0,1,1,1,12,f,others ,no,no,United States,no,,9,12-16 years,english,self,YES
+2255,1,1,0,1,1,0,0,1,1,1,16,f,white,no,no,United Kingdom,no,,7,12-16 years,english,self,YES
+2263,0,0,1,1,1,0,1,0,0,1,12,m,others ,no,no,United States,no,,5,12-16 years,english,parent,NO
+2265,1,0,1,0,1,0,0,1,0,1,15,m,black,no,no,Nigeria,no,,5,12-16 years,english,parent,NO
+2266,1,0,1,0,1,0,0,1,0,0,15,m,black,no,no,Nigeria,no,,4,12-16 years,english,self,NO
+2270,0,0,1,1,0,0,0,0,1,0,15,f,white,no,yes,United Kingdom,no,,3,12-16 years,english,self,NO
+2275,1,1,0,0,0,0,0,0,0,0,13,f,white,no,no,Netherlands,no,,2,12-16 years,english,parent,NO
+2280,1,0,1,1,1,1,0,0,1,1,16,m,white,no,no,United Kingdom,no,,7,12-16 years,english,self,YES
+2281,1,0,1,1,1,1,1,1,1,1,15,m,white,no,no,Australia,no,,9,12-16 years,english,parent,YES
+2291,1,0,0,0,1,0,0,1,0,1,12,m,hispanic,no,no,United States,no,,4,12-16 years,english,self,NO
+2296,1,1,1,0,0,1,1,1,1,0,16,m,white,no,no,United Kingdom,no,,7,12-16 years,english,self,YES
+2297,1,1,1,1,0,1,1,0,1,0,16,m,white,no,no,United Kingdom,no,,7,12-16 years,english,self,YES
+2300,0,1,0,0,0,0,0,0,0,0,16,m,white,no,no,United Kingdom,no,,1,12-16 years,english,self,NO
+2304,1,0,0,1,0,0,1,0,0,0,16,m,white,no,no,United Kingdom,no,,3,12-16 years,english,self,NO
+2328,0,1,1,1,1,1,0,1,1,1,14,m,white,no,yes,United States,no,,8,12-16 years,english,parent,YES
+2344,0,0,0,0,0,1,0,1,1,1,14,f,white,no,yes,United Kingdom,no,,4,12-16 years,english,self,NO
+2347,1,1,0,0,1,1,1,0,1,1,14,f,white,no,no,United Kingdom,no,,7,12-16 years,english,self,YES
+2358,1,1,1,0,1,1,1,1,1,0,15,m,white,no,no,United Kingdom,no,,8,12-16 years,english,self,YES
+2368,1,1,1,1,1,1,0,1,1,1,15,f,white,no,no,United Kingdom,no,,9,12-16 years,english,parent,YES
+2372,0,0,1,0,0,0,0,0,0,0,16,f,white,no,no,United Kingdom,no,,1,12-16 years,english,self,NO
+2373,1,0,1,1,1,1,0,1,1,1,16,f,white,no,yes,Andorra,no,,8,12-16 years,english,self,YES
+2386,1,1,1,0,0,0,0,0,0,0,15,m,middle eastern,no,no,United Kingdom,no,,3,12-16 years,english,self,NO
+2412,1,1,1,1,1,0,1,1,1,1,16,f,white,yes,yes,Estonia,no,,9,12-16 years,english,parent,YES
+2413,1,0,0,1,1,1,1,0,1,1,12,m,white,no,no,South Africa,no,,7,12-16 years,english,parent,YES
+2435,1,1,0,0,1,0,0,1,1,1,14,m,white,no,no,United States,no,,6,12-16 years,english,self,NO
+2436,0,1,0,1,1,1,0,0,1,1,14,m,white,no,no,United States,no,,6,12-16 years,english,health care professional,NO
+2437,1,0,0,0,1,0,0,1,0,1,14,m,white,no,no,United States,no,,4,12-16 years,english,health care professional,NO
+2448,0,0,0,1,1,0,0,1,0,0,15,f,middle eastern,no,no,Azerbaijan,no,,3,12-16 years,french,parent,NO
+2449,1,1,1,1,1,0,1,0,0,1,12,m,white,yes,yes,United Kingdom,no,,7,12-16 years,english,parent,YES
+2451,0,0,0,1,0,0,1,1,0,0,15,m,middle eastern,no,no,Afghanistan,no,,3,12-16 years,english,parent,NO
+2456,1,0,0,0,0,0,0,0,0,1,16,f,middle eastern,no,no,New Zealand,no,,2,12-16 years,english,parent,NO
+2462,1,1,1,0,1,1,0,1,1,1,16,f,south asians,no,no,India,no,,8,12-16 years,english,self,YES
+2472,1,0,1,1,1,1,1,1,1,1,13,m,white,no,no,United Kingdom,no,,9,12-16 years,english,parent,YES
+2491,0,0,1,1,0,1,1,1,1,1,12,f,middle eastern,no,no,Afghanistan,no,,7,12-16 years,english,parent,YES
+2493,1,0,0,0,1,0,0,1,0,0,13,m,white,no,no,United Kingdom,no,,3,12-16 years,english,parent,NO
